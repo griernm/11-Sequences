@@ -13,8 +13,8 @@ import rosegraphics as rg
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    #run_test_count_negatives()
-    #run_test_count_short_ones()
+    run_test_count_negatives()
+    run_test_count_short_ones()
     run_test_draw_circles()
 
 
