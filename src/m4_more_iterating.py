@@ -364,7 +364,7 @@ def run_test_count_items_bigger_than():
     print('  to see whether or not that seems to be true')
     print('  for your code (and Python\'s pseudo-random numbers).')
 
-    # TODO 4 (continued):  Add your 2 ADDITIONAL tests here:
+    # DONE 4 (continued):  Add your 2 ADDITIONAL tests here:
 
     # Test 9:
     sequence = [45, 84, 32, 70, -10, 40]
